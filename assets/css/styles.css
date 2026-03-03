@@ -10,8 +10,8 @@ a{ color:inherit; text-decoration:none; }
 .container{ width:90%; max-width:1150px; margin:auto; }
 
 :root{
-  --nav:#2e3238;
-  --nav2:#24272c;
+  --nav:#3c4457;
+  --nav2:#252525;
   --text-light:#e5e7eb;
   --muted-light:#cbd5e1;
 
